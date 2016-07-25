@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Swift + Playgrounds'/>
+        <page name='Variables and Types'/>
+        <page name='Optionals'/>
+        <page name='Arrays + Dictionaries'/>
+        <page name='Control Flow'/>
+        <page name='Functions + Closures'/>
+        <page name='Quick Assignment'/>
+    </pages>
+</playground>
